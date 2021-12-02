@@ -1,0 +1,95 @@
+h2 {
+	font-family: sans-serif;
+	background-color: #fff;
+	color: #19355e;
+	font-size: 30px;
+	width: 600;
+	background: #dfe8f5;
+	margin: 20px auto;
+	border: solid;
+	border-color: #19355e;
+	border-width: 1px;
+
+}
+
+* {
+	font-family: 19355e;
+	background-color: #b4c0d1;
+	color: #19355e;
+}
+
+table {
+	width: 700; 
+    
+    margin: auto
+}
+
+.ps {
+	font-family: cursive;
+	font-style: oblique;
+	font-size: 13;
+	color: #3b5f96;    
+}
+.ps1 {
+	font-family: cursive;
+	font-style: oblique;
+	font-size: 13;
+	color: #3b5f96;  
+	background: #dfe8f5;
+}
+
+.header {
+ width: 900px;
+ margin: auto;
+}
+
+.aboutme {
+
+	text-align: center;
+}
+
+.aboutme1 {
+
+	text-align: justify;
+	width: 600;
+	margin: auto;
+	background: #dfe8f5;
+	padding: 20;
+	border: solid;
+	border-color: #19355e;
+	border-width: 1px;
+
+
+}
+
+p {
+	margin: 0;
+}
+
+.img {
+	border: solid;
+	border-color: #19355e;
+	border-width: 1px;
+}
+.interests {
+	width: 1200;
+	border: solid;
+	border-color: #19355e;
+	border-width: 1px;
+	margin: auto;
+}
+
+.contacts {
+	width: 700; 
+    
+    margin: auto
+}
+
+h3 {
+	text-align: center;
+
+}
+
+footer {
+	text-align: right;
+}
